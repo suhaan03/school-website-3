@@ -1,0 +1,10 @@
+.images{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#E777C7 ;
+     position: relative;
+}
